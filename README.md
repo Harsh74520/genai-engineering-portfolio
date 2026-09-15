@@ -1,20 +1,7 @@
 # genai-engineering-portfolio
 Generative AI Engineering portfolio featuring RAG, Agentic AI, MCP, LLM applications, document intelligence, FastAPI, and AI automation.
 genai-engineering-portfolio/
-│
-├── README.md
-│
-├── projects/
-│   ├── banking-document-qa/
-│   ├── agentic-ai/
-│   └── rag-qa/
-│
-├── docs/
-│   ├── architecture/
-│   └── workflows/
-│
-└── assets/
-    └── screenshots/
+
     # Hi, I'm Harsh Katara 👋
 
 ### Generative AI Engineer | AI/ML Engineer | RAG | Agentic AI
